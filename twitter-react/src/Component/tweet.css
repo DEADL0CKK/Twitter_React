@@ -1,0 +1,12 @@
+.name{
+  text-align: left;  
+}
+
+.date{
+    text-align: right;
+}
+
+body{
+    width: 15cm;
+    margin: auto;
+}

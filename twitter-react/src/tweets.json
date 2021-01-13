@@ -1,0 +1,43 @@
+{
+    "tweet": [{
+            "name": "Asher li",
+            "email": "trux@gmail.com",
+            "date": "01/01/01",
+            "tweet": "BLABLABLA",
+            "retweet": false,
+            "fav": false
+        },
+        {
+            "name": "Coskum Erbay",
+            "email": "trux@gmail.com",
+            "date": "01/01/01",
+            "tweet": "Bonjour",
+            "retweet": false,
+            "fav": false
+        },
+        {
+            "name": "Hary Franaoz",
+            "email": "trux@gmail.com",
+            "date": "01/01/01",
+            "tweet": "BLABLABLA",
+            "retweet": false,
+            "fav": false
+        },
+        {
+            "name": "Kent Williaz",
+            "email": "trux@gmail.com",
+            "date": "01/01/01",
+            "tweet": "zjjbfzs",
+            "retweet": false,
+            "fav": false
+        },
+        {
+            "name": "Gerry olll",
+            "email": "trux@gmail.com",
+            "date": "01/01/01",
+            "tweet": "BLABLABLA",
+            "retweet": false,
+            "fav": false
+        }
+    ]
+}
